@@ -9,6 +9,8 @@ Hej, przyszli innowatorzy! Chcecie rozwinąć swoje skrzydła w świecie nauki i
 # Co robimy?
 Tworzymy coś niesamowitego - system monitoringu dla dziko żyjących pszczół w barciach (nie ulach) rozmieszczonych w lasach dookoła uniwersytetu. 
 
+Więcej szczegółów w [naszej prezentacji](other/monitoring_barci.pdf).
+
 # Nasz cel?
 Zbieranie danych środowiskowych wewnątrz ula i przesyłanie ich przez protokół LoRa, a następnie zapis w bazie danych i wizualizacja, a może i trochę AI ;)
 
@@ -24,9 +26,6 @@ Dla każdego studenta zainteresowanego technologią, elektroniką, programowanie
 
 # Jak się dołączyć?
 Wpadnij na zajęcia oranizacyjne w sali **115, 16.11 (czwartek) o godz. 16:15**.
-
-# Więcej szczegółów
-Możesz zobaczyć [naszą prezentację](other/monitoring_barci.pdf), żeby dowiedzieć się więcej!
 
 Do zobaczenia!
 
