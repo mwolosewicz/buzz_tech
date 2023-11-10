@@ -26,7 +26,7 @@ Dla każdego studenta zainteresowanego technologią, elektroniką, programowanie
 Wpadnij na zajęcia oranizacyjne w sali **115, 16.11 (czwartek) o godz. 16:15**.
 
 # Więcej szczegółów
-Możesz zobaczyć naszą prezentację, żeby dowiedzieć się więcej!
+Możesz zobaczyć [naszą prezentację](other/monitoring_barci.pdf), żeby dowiedzieć się więcej!
 
 Do zobaczenia!
 
