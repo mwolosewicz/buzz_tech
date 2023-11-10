@@ -1,5 +1,9 @@
 # Koło naukowe - Technika w służbie przyrody, Gdzie LoRa spotyka dziko żyjące pszczoły
 
+<p align="center">
+  <img src="img/poster_clean.png" alt="Opis obrazu"/>
+</p>
+
 Hej, przyszli innowatorzy! Chcecie rozwinąć swoje skrzydła w świecie nauki i technologii? Dołączcie do naszego projektu "bUZz_tech" w Kole Naukowym Uniwersytetu Zielonogórskiego!
 
 # Co robimy?
