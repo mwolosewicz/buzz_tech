@@ -25,7 +25,7 @@ Zbieranie danych środowiskowych wewnątrz ula i przesyłanie ich przez protokó
 Dla każdego studenta zainteresowanego technologią, elektroniką, programowaniem, a także naturą i ekologią. Niezależnie od tego, czy jesteś początkujący czy zaawansowany - jest miejsce dla Ciebie!
 
 # Jak się dołączyć?
-Wpadnij na zajęcia oranizacyjne w sali **115, 16.11 (czwartek) o godz. 16:15**.
+Wpadnij na zajęcia oranizacyjne w sali **115, 16.11 (czwartek) o godz. 16:45**.
 
 Do zobaczenia!
 
