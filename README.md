@@ -12,7 +12,7 @@ Tworzymy coś niesamowitego - system monitoringu dla dziko żyjących pszczół 
 Więcej szczegółów w [naszej prezentacji](other/monitoring_barci.pdf).
 
 # Nasz cel?
-Zbieranie danych środowiskowych wewnątrz ula i przesyłanie ich przez protokół LoRa, a następnie zapis w bazie danych i wizualizacja, a może i trochę AI ;)
+Zbieranie danych środowiskowych wewnątrz barci i przesyłanie ich przez protokół LoRa, a następnie zapis w bazie danych i wizualizacja, a może i trochę AI ;)
 
 # Co zyskasz?
 * **Wiedza praktyczna**: Zanurzysz się w projektowanie elektroniki i pisanie oprogramowania - od pomysłu po realizację.
